@@ -4,7 +4,11 @@
 using namespace std;
 
 int main () {
+		int gp,jk,lembur,gt,pajak;
 	
+	cout << "Masukkan gaji pegawai : ";
+	cin >> gp;
+
 	
 	
 	
