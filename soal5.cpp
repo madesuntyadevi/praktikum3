@@ -11,4 +11,7 @@ int main () {
 	cout << "Masukkan berat badan dalam kg : ";
  	cin >> berat; 
 	
+	if (berat<tinggi/2.5) {
+  	cout << "Hasil : Kurus " << endl;
+ }
 }
